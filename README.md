@@ -43,6 +43,7 @@ Flexbox
 
 ## Author
 
-- Frontend Mentor - [@Ikquilibrium-SG](https://www.frontendmentor.io/profile/Ikquilibrium-SG)
+- Frontend Mentor - [@Just9krish](https://www.frontendmentor.io/profile/Just9krish)
+- Instagram - [@Just9krish](https://www.instagram.com/just9krish/)
 
 
